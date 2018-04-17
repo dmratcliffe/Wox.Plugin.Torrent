@@ -1,0 +1,12 @@
+{
+  "ID":"39F78C8D0A5B408595753263017A039A",   
+  "ActionKeyword":"pb",                     
+  "Name":"PirateBay",                             
+  "Description":"PirateBay torrent search",    
+  "Author":"dmratcliffe",                     
+  "Version":"1.0.0",                         
+  "Language":"csharp",                       
+  "Website":"",         
+  "IcoPath": "Images\\logo.png",              
+  "ExecuteFileName":"Wox.Plugin.PirateBay.dll" 
+}
